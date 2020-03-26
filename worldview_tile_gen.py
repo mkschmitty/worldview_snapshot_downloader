@@ -4,11 +4,11 @@ import os
 
 #Worldview downloader Degree footprint values allowed based on 8200x8200 image max size
 
-#res = '5km'
-#deg = 90
+res = '5km'
+deg = 90
 
-res = '1km'
-deg = 60
+#res = '1km'
+#deg = 60
 
 #res = '500m'
 #deg = 30
